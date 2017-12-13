@@ -2,4 +2,6 @@
 *.log
 .idea
 .gradle
-results
+results/
+build/
+!gradle/wrapper/gradle-wrapper.jar
